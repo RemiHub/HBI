@@ -2530,6 +2530,42 @@ input, select, textarea {
 
 	@media screen and (max-width: 736px) {
 
+		form {
+			text-align: center;
+			margin-right: 40px;
+		}
+
+
+		#content {
+			margin-left: 20px;
+			
+			text-align: center;
+			font-size: 13pt;
+		}
+
+		.contact-labels {
+			margin-left: 20px;
+			
+			text-align: center;
+			font-size: 13pt;
+
+		}
+
+		#contact-form-header {
+			text-align: center;
+		}
+
+			/*-moz-backface-visibility: hidden;
+				-webkit-backface-visibility: hidden;
+				-ms-backface-visibility: hidden;
+				backface-visibility: hidden;
+				-moz-transition: -moz-transform 0.5s ease;
+				-webkit-transition: -webkit-transform 0.5s ease;
+				-ms-transition: -ms-transform 0.5s ease;
+				transition: transform 0.5s ease;
+				padding-bottom: 1px;
+		}*/
+
 		/* Basic */
 
 			body, input, select, textarea {
